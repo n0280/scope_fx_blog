@@ -10,7 +10,7 @@ draft = false
 ## 運営者情報
 
 運営者：合同会社Scope
-お問い合わせ：scope.240415@gmail.com
+お問い合わせ：scope.240415+fxblog@gmail.com
 
 ## 広告・アフィリエイトについて
 
