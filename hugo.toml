@@ -1,0 +1,62 @@
+baseURL = 'https://scope-fx-blog.n028-0kaguchi.workers.dev/'
+locale = 'ja'
+title = '高金利通貨スワップ運用ガイド'
+theme = 'PaperMod'
+
+paginate = 10
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = 'production'
+  description = 'トルコリラ・メキシコペソなど高金利通貨のスワップ運用を、スワップ・スプレッド・為替リスクを統合したトータルリターンで考える情報サイト。'
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = '高金利通貨スワップ運用ガイド'
+    Content = '「スワップの高さだけで選ぶと危険」——通貨の組み合わせ・資金効率・スワップ振替機能・会社選びまでを統合した運用戦略ガイドです。'
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = '記事一覧'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'about'
+    name = 'このサイトについて'
+    url = '/about/'
+    weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
