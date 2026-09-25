@@ -32,6 +32,10 @@ buildExpired = false
     Title = '高金利通貨スワップ運用ガイド'
     Content = '「スワップの高さだけで選ぶと危険」——通貨の組み合わせ・資金効率・スワップ振替機能・会社選びまでを統合した運用戦略ガイドです。'
 
+  [params.analytics]
+    [params.analytics.google]
+      SiteVerificationTag = 'PMePBB4RfE1YfIYxJlfYmSW3s8jKx579vrpCcZJ-ZWM'
+
 [menu]
   [[menu.main]]
     identifier = 'posts'
