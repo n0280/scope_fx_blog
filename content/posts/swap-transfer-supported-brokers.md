@@ -52,6 +52,7 @@ description = 'ポジションを決済せずにスワップポイントだけ�
 - [高金利通貨のスワップ運用、トルコリラだけで大丈夫？——スワップ・スプレッド・為替リスクで考えるFX会社の選び方](/posts/swap-currency-strategy-guide/)
 - [FXのスワップポイント、税金がかかるタイミングはいつ？決済・振替・確定申告の基本](/posts/swap-transfer-tax-timing/)
 - [政策金利差でスワップポイントはどう変わる？金利差別シミュレーション早見表](/posts/swap-simulation-by-rate-differential/)
+- [カバー型FX会社と呑み型FX会社の違いとは？スワップ運用での見分け方](/posts/cover-dealing-desk-difference/)
 
 ---
 
