@@ -47,6 +47,11 @@ buildExpired = false
     name = 'このサイトについて'
     url = '/about/'
     weight = 20
+  [[menu.main]]
+    identifier = 'privacy-policy'
+    name = 'プライバシーポリシー'
+    url = '/privacy-policy/'
+    weight = 30
 
 [markup]
   [markup.goldmark]
