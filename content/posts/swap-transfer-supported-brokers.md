@@ -33,7 +33,7 @@ description = 'ポジションを決済せずにスワップポイントだけ�
 
 上の表のうち、当サイトが広告として提携している会社の公式サイトは次のとおりです（広告リンク）。
 
-- <a href="https://px.a8.net/svt/ejp?a8mat=4BE7SX+1FSQEQ+1FOU+62MDE" rel="nofollow">ヒロセ通商【LION FX】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BE7SX+1FSQEQ+1FOU+62MDE" alt="">
+- <a href="https://px.a8.net/svt/ejp?a8mat=4BE7SX+1FSQEQ+1FOU+62MDE" rel="nofollow" target="_blank">ヒロセ通商【LION FX】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BE7SX+1FSQEQ+1FOU+62MDE" alt="">
 
 ### 振替方式の違いが運用にどう影響するか
 
